@@ -44,7 +44,6 @@
     </symbol>
   </defs>
   <text x="220" y="38" class="title">MolSurvival セットアップ図</text>
-  <text x="220" y="60" class="subtitle">プレイヤー1,3 が上 / プレイヤー2,4 が下 / 中央5×3=Lv1表向き / 上下=元素カード</text>
   <text x="105" y="88" class="player-tag">P1（黒）</text>
   <circle cx="42" cy="102" r="5" class="stone-c"/>
   <circle cx="56" cy="102" r="5" class="stone-c"/>

@@ -53,7 +53,6 @@
     </symbol>
   </defs>
   <text x="220" y="38" class="title">MolSolitaire セットアップ図</text>
-  <text x="220" y="60" class="subtitle">ソロ専用 — 中央3×3=Lv1表向き / 向こう側Lv3=目標 / こちら側Lv3=スペーサー / 発射台必須</text>
   <g transform="rotate(90 80.0 110.0)">
     <use xlink:href="#lv3" x="50.0" y="60.0" width="60" height="100"/>
   </g>

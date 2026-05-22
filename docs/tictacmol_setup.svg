@@ -42,7 +42,6 @@
     </symbol>
   </defs>
   <text x="220" y="38" class="title">TicTacMol セットアップ図</text>
-  <text x="220" y="60" class="subtitle">2人プレイ — 中央3×3=Lv1表向き（横向き）/ 発射台から弾く / 上下=元素カード（バッファ）</text>
   <text x="180" y="88" class="player-tag">P2（白）</text>
   <circle cx="117" cy="102" r="5" class="stone-h"/>
   <circle cx="131" cy="102" r="5" class="stone-h"/>

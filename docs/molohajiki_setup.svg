@@ -52,7 +52,6 @@
     </symbol>
   </defs>
   <text x="280" y="38" class="title">MolOhajiki セットアップ図</text>
-  <text x="280" y="58" class="subtitle">2人プレイ — 3×4=12枚 Lv1（表向き・ランダム） / 各プレイヤー: 元素カード5枚 + 発射台1枚 / おはじきは全て袋にプール</text>
   <text x="280" y="82" class="player-tag">プレイヤー B の手元（向こう側）</text>
   <g transform="rotate(270 80.0 122.0)">
     <use xlink:href="#carbon" x="50.0" y="72.0" width="60" height="100"/>
