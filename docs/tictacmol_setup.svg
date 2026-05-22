@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 675" font-family="'Hiragino Sans', 'Yu Gothic', sans-serif">
   <title>TicTacMol セットアップ図（2人プレイ）</title>
+  <rect width="100%" height="100%" fill="white"/>
   <style>
     .card-rect    { fill: #fefef0; stroke: #000; stroke-width: 1.0; }
     .card-border  { fill: none;    stroke: #000; stroke-width: 1.0; }
