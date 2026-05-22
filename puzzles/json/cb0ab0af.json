@@ -1,0 +1,222 @@
+{
+  "id": "cb0ab0af",
+  "card_ids": [
+    13,
+    25,
+    29,
+    45,
+    20,
+    14,
+    34,
+    18,
+    16
+  ],
+  "cards": [
+    "O3",
+    "C2H3Cl",
+    "C2H6O",
+    "C8H11NO2",
+    "NH3",
+    "SO2",
+    "C4H6O4",
+    "CH2O",
+    "-COOH"
+  ],
+  "card_names_jp": [
+    "オゾン",
+    "塩化ビニル",
+    "エタノール",
+    "ドーパミン",
+    "アンモニア",
+    "二酸化硫黄",
+    "コハク酸",
+    "ホルムアルデヒド",
+    "カルボキシ基"
+  ],
+  "card_levels": [
+    1,
+    2,
+    2,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1
+  ],
+  "ohajiki_budget": {
+    "C": 2,
+    "H": 0,
+    "O": 3,
+    "N": 0,
+    "etc": 0
+  },
+  "total_budget": 5,
+  "min_cost": 5,
+  "valid_arrangements": 96000,
+  "created": "2026-05-22",
+  "_solution_order": [
+    0,
+    3,
+    4,
+    8,
+    5,
+    1,
+    7,
+    2,
+    6
+  ],
+  "_solution_breakdown": {
+    "C": 2,
+    "H": 0,
+    "O": 3,
+    "N": 0,
+    "etc": 0
+  },
+  "_solution_connections": [
+    {
+      "pos": [
+        0,
+        1
+      ],
+      "element": "O",
+      "cost": 1,
+      "counts": [
+        3,
+        2
+      ]
+    },
+    {
+      "pos": [
+        1,
+        2
+      ],
+      "element": "N",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        3,
+        4
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        4,
+        5
+      ],
+      "element": "etc",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        6,
+        7
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        7,
+        8
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        0,
+        3
+      ],
+      "element": "O",
+      "cost": 1,
+      "counts": [
+        3,
+        2
+      ]
+    },
+    {
+      "pos": [
+        1,
+        4
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        2,
+        5
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        3,
+        3
+      ]
+    },
+    {
+      "pos": [
+        3,
+        6
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        4,
+        7
+      ],
+      "element": "O",
+      "cost": 1,
+      "counts": [
+        2,
+        1
+      ]
+    },
+    {
+      "pos": [
+        5,
+        8
+      ],
+      "element": "C",
+      "cost": 2,
+      "counts": [
+        2,
+        4
+      ]
+    }
+  ]
+}

@@ -28,19 +28,19 @@ A solo puzzle: place 9 molecule cards into a 3×3 grid and connect every pair of
 
 Cards arranged in the 3×3 grid are connected on every adjacent pair, up/down/left/right (**12 pairs in total**; diagonals don't count).
 
-Here's **Puzzle #001** as a walkthrough.
+Here's a **sample puzzle** as a walkthrough.
 
 ### Puzzle
 
-![Puzzle #001 problem](./puzzle_001_q.svg)
+![Sample puzzle problem](../puzzles/question/5b1c7f20.svg)
 
-**Figure 1. Puzzle.** The 9 molecule cards (Hydrogen Sulfide, TNT, Hydroxyl, Methyl, Water, Lactic Acid, Guanidine, Benzene, Glucose) and the marble budget (Carbon C × 2, Hydrogen H × 7, Oxygen O × 2, total 11 marbles).
+**Figure 1. Puzzle.** The 9 molecule cards (Hydrogen Peroxide, Carboxyl, Hydrogen Sulfide, Acetylene, Dopamine, Serotonin, Amino, Methane, Carbon Dioxide) and the marble budget (Carbon C × 1, Hydrogen H × 1, Nitrogen N × 1, total 3 marbles).
 
 ### Solution
 
-![Puzzle #001 solution](./puzzle_001_a.svg)
+![Sample puzzle solution](../puzzles/answer/5b1c7f20.svg)
 
-**Figure 2. Example solution.** Pairs where the chosen element count matches are placed **touching** (cost 0, no marbles in between). Pairs where the count differs are placed **apart**, with the difference in marbles between them. For example, top-right TNT and Glucose both contain 6 oxygens → touching. Top-left Hydrogen Sulfide (H=2) and TNT (H=5) differ by 3 → place 3 white marbles between them. The puzzle is solved when your marble budget is used exactly.
+**Figure 2. Example solution.** Pairs where the chosen element count matches are placed **touching** (cost 0, no marbles in between). Pairs where the count differs are placed **apart**, with the difference in marbles between them. The puzzle is solved when all 3 marbles are used exactly.
 
 ### How to connect
 

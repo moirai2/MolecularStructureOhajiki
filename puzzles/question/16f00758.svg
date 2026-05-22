@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 376 646" font-family="'Hiragino Sans', 'Yu Gothic', sans-serif">
+  <title>MolPuzzle お題 #16f00758</title>
+  <style>
+    .card-border { fill: none; stroke: #000; stroke-width: 1.0; }
+    .stone-C   { fill: #1a1a1a; stroke: #000; stroke-width: 0.8; }
+    .stone-H   { fill: #e8e8e8; stroke: #000; stroke-width: 1.0; }
+    .stone-O   { fill: #dd3333; stroke: #000; stroke-width: 0.8; }
+    .stone-N   { fill: #2860c8; stroke: #000; stroke-width: 0.8; }
+    .stone-etc { fill: #f0c020; stroke: #000; stroke-width: 0.8; }
+    .title      { font-size: 16px; fill: #222; font-weight: bold; }
+    .side-label { font-size: 13px; fill: #333; font-weight: bold; }
+    .sub        { font-size: 12px; fill: #444; }
+    .conn-label { font-size: 10px; fill: #555; font-weight: bold; }
+    .card-formula { font-size: 13px; fill: #111; font-weight: bold; font-family: monospace; }
+    .card-name   { font-size: 10px; fill: #333; }
+    .card-level  { font-size: 9px; fill: #888; }
+  </style>
+  <text x="20" y="38" class="title">パズル #16f00758　使用カード 9 枚</text>
+  <rect x="20" y="52" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="115" y="64" class="card-level" text-anchor="end">Lv1</text>
+  <text x="70.0" y="125.04" class="card-formula" text-anchor="middle">-CO-</text>
+  <line x1="28" y1="141.64" x2="112" y2="141.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="70.0" y="164.88" class="card-name" text-anchor="middle">カルボニル基</text>
+  <rect x="138" y="52" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="233" y="64" class="card-level" text-anchor="end">Lv1</text>
+  <text x="188.0" y="125.04" class="card-formula" text-anchor="middle">SO2</text>
+  <line x1="146" y1="141.64" x2="230" y2="141.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="188.0" y="164.88" class="card-name" text-anchor="middle">二酸化硫黄</text>
+  <rect x="256" y="52" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="351" y="64" class="card-level" text-anchor="end">Lv1</text>
+  <text x="306.0" y="125.04" class="card-formula" text-anchor="middle">C2H2</text>
+  <line x1="264" y1="141.64" x2="348" y2="141.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="306.0" y="164.88" class="card-name" text-anchor="middle">アセチレン</text>
+  <rect x="20" y="236" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="115" y="248" class="card-level" text-anchor="end">Lv2</text>
+  <text x="70.0" y="309.04" class="card-formula" text-anchor="middle">C2H3Cl</text>
+  <line x1="28" y1="325.64" x2="112" y2="325.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="70.0" y="348.88" class="card-name" text-anchor="middle">塩化ビニル</text>
+  <rect x="138" y="236" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="233" y="248" class="card-level" text-anchor="end">Lv2</text>
+  <text x="188.0" y="309.04" class="card-formula" text-anchor="middle">C2H6O</text>
+  <line x1="146" y1="325.64" x2="230" y2="325.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="188.0" y="348.88" class="card-name" text-anchor="middle">エタノール</text>
+  <rect x="256" y="236" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="351" y="248" class="card-level" text-anchor="end">Lv2</text>
+  <text x="306.0" y="309.04" class="card-formula" text-anchor="middle">C6H6</text>
+  <line x1="264" y1="325.64" x2="348" y2="325.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="306.0" y="348.88" class="card-name" text-anchor="middle">ベンゼン</text>
+  <rect x="20" y="420" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="115" y="432" class="card-level" text-anchor="end">Lv2</text>
+  <text x="70.0" y="493.04" class="card-formula" text-anchor="middle">C3H8O3</text>
+  <line x1="28" y1="509.64" x2="112" y2="509.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="70.0" y="532.88" class="card-name" text-anchor="middle">グリセリン</text>
+  <rect x="138" y="420" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="233" y="432" class="card-level" text-anchor="end">Lv3</text>
+  <text x="188.0" y="493.04" class="card-formula" text-anchor="middle">C8H11NO3</text>
+  <line x1="146" y1="509.64" x2="230" y2="509.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="188.0" y="524.58" class="card-name" text-anchor="middle">ノルアド</text>
+  <text x="188.0" y="546.16" class="card-name" text-anchor="middle">レナリン</text>
+  <rect x="256" y="420" width="100" height="166" class="card-border" style="fill:#fff" rx="3"/>
+  <text x="351" y="432" class="card-level" text-anchor="end">Lv3</text>
+  <text x="306.0" y="493.04" class="card-formula" text-anchor="middle">C9H13NO3</text>
+  <line x1="264" y1="509.64" x2="348" y2="509.64" stroke="#ccc" stroke-width="0.8"/>
+  <text x="306.0" y="532.88" class="card-name" text-anchor="middle">アドレナリン</text>
+  <text x="20" y="614" class="side-label">合計 7 個 :</text>
+  <circle cx="125" cy="610" r="7" class="stone-C"/>
+  <text x="137" y="614" class="sub">×5</text>
+  <circle cx="175" cy="610" r="7" class="stone-O"/>
+  <text x="187" y="614" class="sub">×2</text>
+</svg>

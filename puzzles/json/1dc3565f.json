@@ -1,0 +1,222 @@
+{
+  "id": "1dc3565f",
+  "card_ids": [
+    49,
+    45,
+    43,
+    15,
+    37,
+    47,
+    50,
+    30,
+    46
+  ],
+  "cards": [
+    "C10H12N2O",
+    "C8H11NO2",
+    "C7H5N3O6",
+    "-CH3",
+    "C4H6O6",
+    "C6H12O6",
+    "C9H13NO3",
+    "CH5N3",
+    "C8H11NO3"
+  ],
+  "card_names_jp": [
+    "セロトニン",
+    "ドーパミン",
+    "TNT",
+    "メチル基",
+    "酒石酸",
+    "グルコース",
+    "アドレナリン",
+    "グアニジン",
+    "ノルアドレナリン"
+  ],
+  "card_levels": [
+    3,
+    3,
+    3,
+    1,
+    2,
+    3,
+    3,
+    2,
+    3
+  ],
+  "ohajiki_budget": {
+    "C": 5,
+    "H": 2,
+    "O": 0,
+    "N": 1,
+    "etc": 0
+  },
+  "total_budget": 8,
+  "min_cost": 8,
+  "valid_arrangements": 362880,
+  "created": "2026-05-22",
+  "_solution_order": [
+    0,
+    1,
+    6,
+    7,
+    2,
+    8,
+    3,
+    4,
+    5
+  ],
+  "_solution_breakdown": {
+    "C": 5,
+    "H": 2,
+    "O": 0,
+    "N": 1,
+    "etc": 0
+  },
+  "_solution_connections": [
+    {
+      "pos": [
+        0,
+        1
+      ],
+      "element": "H",
+      "cost": 1,
+      "counts": [
+        12,
+        11
+      ]
+    },
+    {
+      "pos": [
+        1,
+        2
+      ],
+      "element": "N",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        3,
+        4
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        5,
+        5
+      ]
+    },
+    {
+      "pos": [
+        4,
+        5
+      ],
+      "element": "C",
+      "cost": 1,
+      "counts": [
+        7,
+        8
+      ]
+    },
+    {
+      "pos": [
+        6,
+        7
+      ],
+      "element": "C",
+      "cost": 3,
+      "counts": [
+        1,
+        4
+      ]
+    },
+    {
+      "pos": [
+        7,
+        8
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        0,
+        3
+      ],
+      "element": "N",
+      "cost": 1,
+      "counts": [
+        2,
+        3
+      ]
+    },
+    {
+      "pos": [
+        1,
+        4
+      ],
+      "element": "C",
+      "cost": 1,
+      "counts": [
+        8,
+        7
+      ]
+    },
+    {
+      "pos": [
+        2,
+        5
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        3,
+        3
+      ]
+    },
+    {
+      "pos": [
+        3,
+        6
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        4,
+        7
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        5,
+        8
+      ],
+      "element": "H",
+      "cost": 1,
+      "counts": [
+        11,
+        12
+      ]
+    }
+  ]
+}

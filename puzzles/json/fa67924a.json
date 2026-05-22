@@ -1,0 +1,222 @@
+{
+  "id": "fa67924a",
+  "card_ids": [
+    29,
+    23,
+    15,
+    48,
+    21,
+    49,
+    19,
+    5,
+    18
+  ],
+  "cards": [
+    "C2H6O",
+    "CHCl3",
+    "-CH3",
+    "C8H10N4O2",
+    "CH2O2",
+    "C10H12N2O",
+    "H2O2",
+    "N2",
+    "CH2O"
+  ],
+  "card_names_jp": [
+    "エタノール",
+    "クロロホルム",
+    "メチル基",
+    "カフェイン",
+    "ギ酸",
+    "セロトニン",
+    "過酸化水素",
+    "窒素分子",
+    "ホルムアルデヒド"
+  ],
+  "card_levels": [
+    2,
+    2,
+    1,
+    3,
+    2,
+    3,
+    1,
+    1,
+    1
+  ],
+  "ohajiki_budget": {
+    "C": 1,
+    "H": 0,
+    "O": 1,
+    "N": 2,
+    "etc": 0
+  },
+  "total_budget": 4,
+  "min_cost": 4,
+  "valid_arrangements": 5760,
+  "created": "2026-05-22",
+  "_solution_order": [
+    0,
+    1,
+    2,
+    5,
+    4,
+    8,
+    7,
+    3,
+    6
+  ],
+  "_solution_breakdown": {
+    "C": 1,
+    "H": 0,
+    "O": 1,
+    "N": 2,
+    "etc": 0
+  },
+  "_solution_connections": [
+    {
+      "pos": [
+        0,
+        1
+      ],
+      "element": "C",
+      "cost": 1,
+      "counts": [
+        2,
+        1
+      ]
+    },
+    {
+      "pos": [
+        1,
+        2
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        3,
+        4
+      ],
+      "element": "O",
+      "cost": 1,
+      "counts": [
+        1,
+        2
+      ]
+    },
+    {
+      "pos": [
+        4,
+        5
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        6,
+        7
+      ],
+      "element": "N",
+      "cost": 2,
+      "counts": [
+        2,
+        4
+      ]
+    },
+    {
+      "pos": [
+        7,
+        8
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        0,
+        3
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        1,
+        4
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        2,
+        5
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        3,
+        6
+      ],
+      "element": "N",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        4,
+        7
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        5,
+        8
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "b0317fc7",
+  "card_ids": [
+    43,
+    24,
+    41,
+    42,
+    38,
+    18,
+    32,
+    19,
+    8
+  ],
+  "cards": [
+    "C7H5N3O6",
+    "HNO3",
+    "C6H8O6",
+    "C6H8O7",
+    "C4H7NO4",
+    "CH2O",
+    "C6H6",
+    "H2O2",
+    "-NH2"
+  ],
+  "card_names_jp": [
+    "TNT",
+    "硝酸",
+    "ビタミンC",
+    "クエン酸",
+    "アスパラギン酸",
+    "ホルムアルデヒド",
+    "ベンゼン",
+    "過酸化水素",
+    "アミノ基"
+  ],
+  "card_levels": [
+    3,
+    2,
+    3,
+    3,
+    2,
+    1,
+    2,
+    1,
+    1
+  ],
+  "ohajiki_budget": {
+    "C": 0,
+    "H": 7,
+    "O": 0,
+    "N": 2,
+    "etc": 0
+  },
+  "total_budget": 9,
+  "min_cost": 9,
+  "valid_arrangements": 362880,
+  "created": "2026-05-22",
+  "_solution_order": [
+    0,
+    1,
+    5,
+    2,
+    4,
+    8,
+    3,
+    6,
+    7
+  ],
+  "_solution_breakdown": {
+    "C": 0,
+    "H": 7,
+    "O": 0,
+    "N": 2,
+    "etc": 0
+  },
+  "_solution_connections": [
+    {
+      "pos": [
+        0,
+        1
+      ],
+      "element": "N",
+      "cost": 2,
+      "counts": [
+        3,
+        1
+      ]
+    },
+    {
+      "pos": [
+        1,
+        2
+      ],
+      "element": "H",
+      "cost": 1,
+      "counts": [
+        1,
+        2
+      ]
+    },
+    {
+      "pos": [
+        3,
+        4
+      ],
+      "element": "H",
+      "cost": 1,
+      "counts": [
+        8,
+        7
+      ]
+    },
+    {
+      "pos": [
+        4,
+        5
+      ],
+      "element": "N",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        6,
+        7
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        7,
+        8
+      ],
+      "element": "H",
+      "cost": 4,
+      "counts": [
+        6,
+        2
+      ]
+    },
+    {
+      "pos": [
+        0,
+        3
+      ],
+      "element": "O",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        1,
+        4
+      ],
+      "element": "N",
+      "cost": 0,
+      "counts": [
+        1,
+        1
+      ]
+    },
+    {
+      "pos": [
+        2,
+        5
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    },
+    {
+      "pos": [
+        3,
+        6
+      ],
+      "element": "C",
+      "cost": 0,
+      "counts": [
+        6,
+        6
+      ]
+    },
+    {
+      "pos": [
+        4,
+        7
+      ],
+      "element": "H",
+      "cost": 1,
+      "counts": [
+        7,
+        6
+      ]
+    },
+    {
+      "pos": [
+        5,
+        8
+      ],
+      "element": "H",
+      "cost": 0,
+      "counts": [
+        2,
+        2
+      ]
+    }
+  ]
+}
