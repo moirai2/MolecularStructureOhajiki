@@ -3,40 +3,184 @@
 **日本語** | [English](./puzzles.en.md)
 
 3×3グリッドに9枚のカードを並べ、隣接する全ペアを元素でつなぎましょう。
-おはじきを指定の数以内で全12ペアを接続できれば完成です。
+おはじきを指定の数ぴったりで全12ペアを接続できれば完成です。
 
 ルールの詳細は [→ 分子パズルのルール](../docs/puzzle.md) を参照してください。
 
----
+全 **170** 問。**おはじき総数**と **Lv構成**（使用カードのレベル内訳）が複雑さの目安になります。
+リンクを一度クリックすればブラウザの既読色で解いた問題が分かります。
 
-## パズル #001
+| # | 問題 | 解答 | おはじき（個） | Lv1 | Lv2 | Lv3 |
+|---|------|------|---------------|-----|-----|-----|
+| 001 | [問題](question/f93bca96.svg) | [解答](answer/f93bca96.svg) | 11 | 4 | 3 | 2 |
+| 002 | [問題](question/005d34ca.svg) | [解答](answer/005d34ca.svg) | 16 | 5 | 1 | 3 |
+| 003 | [問題](question/013ad43f.svg) | [解答](answer/013ad43f.svg) | 6 | 5 | 3 | 1 |
+| 004 | [問題](question/0865740b.svg) | [解答](answer/0865740b.svg) | 10 | 4 | 2 | 3 |
+| 005 | [問題](question/08ad09b0.svg) | [解答](answer/08ad09b0.svg) | 6 | 5 | 3 | 1 |
+| 006 | [問題](question/08f0f1dc.svg) | [解答](answer/08f0f1dc.svg) | 6 | 4 | 5 | 0 |
+| 007 | [問題](question/0afcdc51.svg) | [解答](answer/0afcdc51.svg) | 14 | 3 | 3 | 3 |
+| 008 | [問題](question/0ba7d7d3.svg) | [解答](answer/0ba7d7d3.svg) | 4 | 5 | 3 | 1 |
+| 009 | [問題](question/0e049419.svg) | [解答](answer/0e049419.svg) | 6 | 3 | 4 | 2 |
+| 010 | [問題](question/118478ec.svg) | [解答](answer/118478ec.svg) | 12 | 6 | 2 | 1 |
+| 011 | [問題](question/13ce9282.svg) | [解答](answer/13ce9282.svg) | 6 | 3 | 3 | 3 |
+| 012 | [問題](question/147bf950.svg) | [解答](answer/147bf950.svg) | 9 | 2 | 3 | 4 |
+| 013 | [問題](question/14c78914.svg) | [解答](answer/14c78914.svg) | 4 | 4 | 4 | 1 |
+| 014 | [問題](question/14f26c09.svg) | [解答](answer/14f26c09.svg) | 6 | 3 | 2 | 4 |
+| 015 | [問題](question/16f00758.svg) | [解答](answer/16f00758.svg) | 7 | 3 | 4 | 2 |
+| 016 | [問題](question/1804b332.svg) | [解答](answer/1804b332.svg) | 8 | 3 | 2 | 4 |
+| 017 | [問題](question/18f11862.svg) | [解答](answer/18f11862.svg) | 5 | 3 | 6 | 0 |
+| 018 | [問題](question/19aa16d8.svg) | [解答](answer/19aa16d8.svg) | 8 | 5 | 3 | 1 |
+| 019 | [問題](question/1afcfb0e.svg) | [解答](answer/1afcfb0e.svg) | 4 | 3 | 4 | 2 |
+| 020 | [問題](question/1b2517d6.svg) | [解答](answer/1b2517d6.svg) | 8 | 4 | 3 | 2 |
+| 021 | [問題](question/1b3027c0.svg) | [解答](answer/1b3027c0.svg) | 5 | 5 | 3 | 1 |
+| 022 | [問題](question/1dc3565f.svg) | [解答](answer/1dc3565f.svg) | 8 | 1 | 2 | 6 |
+| 023 | [問題](question/1dee1dc6.svg) | [解答](answer/1dee1dc6.svg) | 10 | 3 | 4 | 2 |
+| 024 | [問題](question/1f97bff6.svg) | [解答](answer/1f97bff6.svg) | 9 | 5 | 2 | 2 |
+| 025 | [問題](question/202455b9.svg) | [解答](answer/202455b9.svg) | 16 | 4 | 4 | 1 |
+| 026 | [問題](question/214d77d2.svg) | [解答](answer/214d77d2.svg) | 9 | 3 | 5 | 1 |
+| 027 | [問題](question/23439b2d.svg) | [解答](answer/23439b2d.svg) | 9 | 2 | 7 | 0 |
+| 028 | [問題](question/234907e1.svg) | [解答](answer/234907e1.svg) | 6 | 4 | 5 | 0 |
+| 029 | [問題](question/264a301f.svg) | [解答](answer/264a301f.svg) | 12 | 4 | 3 | 2 |
+| 030 | [問題](question/273ba585.svg) | [解答](answer/273ba585.svg) | 16 | 4 | 3 | 2 |
+| 031 | [問題](question/290fe1bd.svg) | [解答](answer/290fe1bd.svg) | 16 | 5 | 2 | 2 |
+| 032 | [問題](question/2af4fb89.svg) | [解答](answer/2af4fb89.svg) | 13 | 4 | 2 | 3 |
+| 033 | [問題](question/2c9cce74.svg) | [解答](answer/2c9cce74.svg) | 8 | 5 | 3 | 1 |
+| 034 | [問題](question/2ebeebd3.svg) | [解答](answer/2ebeebd3.svg) | 13 | 5 | 2 | 2 |
+| 035 | [問題](question/3053b05d.svg) | [解答](answer/3053b05d.svg) | 7 | 4 | 4 | 1 |
+| 036 | [問題](question/34296f64.svg) | [解答](answer/34296f64.svg) | 8 | 4 | 3 | 2 |
+| 037 | [問題](question/352e78e6.svg) | [解答](answer/352e78e6.svg) | 7 | 6 | 3 | 0 |
+| 038 | [問題](question/35894f4a.svg) | [解答](answer/35894f4a.svg) | 7 | 2 | 5 | 2 |
+| 039 | [問題](question/36613e53.svg) | [解答](answer/36613e53.svg) | 8 | 4 | 4 | 1 |
+| 040 | [問題](question/3995555e.svg) | [解答](answer/3995555e.svg) | 7 | 4 | 4 | 1 |
+| 041 | [問題](question/3b6dc268.svg) | [解答](answer/3b6dc268.svg) | 14 | 4 | 3 | 2 |
+| 042 | [問題](question/3d952766.svg) | [解答](answer/3d952766.svg) | 11 | 3 | 3 | 3 |
+| 043 | [問題](question/3e44abc8.svg) | [解答](answer/3e44abc8.svg) | 14 | 3 | 5 | 1 |
+| 044 | [問題](question/3f155fb0.svg) | [解答](answer/3f155fb0.svg) | 11 | 2 | 5 | 2 |
+| 045 | [問題](question/3f4035eb.svg) | [解答](answer/3f4035eb.svg) | 11 | 4 | 4 | 1 |
+| 046 | [問題](question/3fafbc1d.svg) | [解答](answer/3fafbc1d.svg) | 8 | 5 | 2 | 2 |
+| 047 | [問題](question/42ee97d4.svg) | [解答](answer/42ee97d4.svg) | 8 | 3 | 2 | 4 |
+| 048 | [問題](question/43acc0dc.svg) | [解答](answer/43acc0dc.svg) | 4 | 2 | 5 | 2 |
+| 049 | [問題](question/43fe4e97.svg) | [解答](answer/43fe4e97.svg) | 6 | 2 | 2 | 5 |
+| 050 | [問題](question/450846c3.svg) | [解答](answer/450846c3.svg) | 11 | 5 | 3 | 1 |
+| 051 | [問題](question/46158a53.svg) | [解答](answer/46158a53.svg) | 8 | 4 | 5 | 0 |
+| 052 | [問題](question/471098c4.svg) | [解答](answer/471098c4.svg) | 15 | 3 | 5 | 1 |
+| 053 | [問題](question/47cd5cd4.svg) | [解答](answer/47cd5cd4.svg) | 18 | 3 | 3 | 3 |
+| 054 | [問題](question/482099b6.svg) | [解答](answer/482099b6.svg) | 7 | 5 | 4 | 0 |
+| 055 | [問題](question/4a0a42d3.svg) | [解答](answer/4a0a42d3.svg) | 7 | 3 | 5 | 1 |
+| 056 | [問題](question/4ac95d26.svg) | [解答](answer/4ac95d26.svg) | 20 | 4 | 4 | 1 |
+| 057 | [問題](question/4b1599f6.svg) | [解答](answer/4b1599f6.svg) | 6 | 3 | 4 | 2 |
+| 058 | [問題](question/4d0a56c3.svg) | [解答](answer/4d0a56c3.svg) | 16 | 2 | 5 | 2 |
+| 059 | [問題](question/5026c503.svg) | [解答](answer/5026c503.svg) | 6 | 3 | 4 | 2 |
+| 060 | [問題](question/52a36467.svg) | [解答](answer/52a36467.svg) | 8 | 2 | 6 | 1 |
+| 061 | [問題](question/5502f648.svg) | [解答](answer/5502f648.svg) | 9 | 4 | 2 | 3 |
+| 062 | [問題](question/5691946a.svg) | [解答](answer/5691946a.svg) | 13 | 4 | 3 | 2 |
+| 063 | [問題](question/5791d3ed.svg) | [解答](answer/5791d3ed.svg) | 8 | 3 | 4 | 2 |
+| 064 | [問題](question/5b1c7f20.svg) | [解答](answer/5b1c7f20.svg) | 3 | 6 | 1 | 2 |
+| 065 | [問題](question/5ca990c1.svg) | [解答](answer/5ca990c1.svg) | 11 | 4 | 4 | 1 |
+| 066 | [問題](question/5d8b656e.svg) | [解答](answer/5d8b656e.svg) | 14 | 4 | 2 | 3 |
+| 067 | [問題](question/64b355a2.svg) | [解答](answer/64b355a2.svg) | 9 | 3 | 5 | 1 |
+| 068 | [問題](question/65a68655.svg) | [解答](answer/65a68655.svg) | 20 | 5 | 3 | 1 |
+| 069 | [問題](question/667bc6af.svg) | [解答](answer/667bc6af.svg) | 12 | 7 | 1 | 1 |
+| 070 | [問題](question/6761eb06.svg) | [解答](answer/6761eb06.svg) | 9 | 6 | 1 | 2 |
+| 071 | [問題](question/685aa887.svg) | [解答](answer/685aa887.svg) | 15 | 4 | 4 | 1 |
+| 072 | [問題](question/6bd486db.svg) | [解答](answer/6bd486db.svg) | 9 | 6 | 1 | 2 |
+| 073 | [問題](question/6bffc512.svg) | [解答](answer/6bffc512.svg) | 14 | 2 | 5 | 2 |
+| 074 | [問題](question/6c5b9c53.svg) | [解答](answer/6c5b9c53.svg) | 19 | 3 | 2 | 4 |
+| 075 | [問題](question/6dbe25a1.svg) | [解答](answer/6dbe25a1.svg) | 4 | 4 | 4 | 1 |
+| 076 | [問題](question/74404991.svg) | [解答](answer/74404991.svg) | 8 | 4 | 3 | 2 |
+| 077 | [問題](question/75390487.svg) | [解答](answer/75390487.svg) | 7 | 4 | 4 | 1 |
+| 078 | [問題](question/75622be5.svg) | [解答](answer/75622be5.svg) | 14 | 3 | 2 | 4 |
+| 079 | [問題](question/7914e167.svg) | [解答](answer/7914e167.svg) | 1 | 5 | 3 | 1 |
+| 080 | [問題](question/79fdb3b1.svg) | [解答](answer/79fdb3b1.svg) | 7 | 3 | 4 | 2 |
+| 081 | [問題](question/7aa5421f.svg) | [解答](answer/7aa5421f.svg) | 10 | 2 | 5 | 2 |
+| 082 | [問題](question/7d8c3924.svg) | [解答](answer/7d8c3924.svg) | 11 | 4 | 3 | 2 |
+| 083 | [問題](question/81db0e7e.svg) | [解答](answer/81db0e7e.svg) | 4 | 3 | 4 | 2 |
+| 084 | [問題](question/8509ef4e.svg) | [解答](answer/8509ef4e.svg) | 7 | 5 | 2 | 2 |
+| 085 | [問題](question/85220fd3.svg) | [解答](answer/85220fd3.svg) | 5 | 3 | 4 | 2 |
+| 086 | [問題](question/85c27f36.svg) | [解答](answer/85c27f36.svg) | 7 | 5 | 2 | 2 |
+| 087 | [問題](question/8805455d.svg) | [解答](answer/8805455d.svg) | 9 | 5 | 4 | 0 |
+| 088 | [問題](question/8a258883.svg) | [解答](answer/8a258883.svg) | 12 | 4 | 4 | 1 |
+| 089 | [問題](question/8b0d5049.svg) | [解答](answer/8b0d5049.svg) | 11 | 3 | 4 | 2 |
+| 090 | [問題](question/8b60caea.svg) | [解答](answer/8b60caea.svg) | 9 | 5 | 2 | 2 |
+| 091 | [問題](question/8d6d6ba5.svg) | [解答](answer/8d6d6ba5.svg) | 15 | 7 | 1 | 1 |
+| 092 | [問題](question/8e919ba8.svg) | [解答](answer/8e919ba8.svg) | 9 | 2 | 3 | 4 |
+| 093 | [問題](question/90a3a4bf.svg) | [解答](answer/90a3a4bf.svg) | 7 | 5 | 3 | 1 |
+| 094 | [問題](question/91f6af39.svg) | [解答](answer/91f6af39.svg) | 8 | 4 | 3 | 2 |
+| 095 | [問題](question/943b59c2.svg) | [解答](answer/943b59c2.svg) | 9 | 4 | 4 | 1 |
+| 096 | [問題](question/97ed1b3b.svg) | [解答](answer/97ed1b3b.svg) | 4 | 4 | 5 | 0 |
+| 097 | [問題](question/9b1a3b31.svg) | [解答](answer/9b1a3b31.svg) | 13 | 3 | 4 | 2 |
+| 098 | [問題](question/9b1bb64d.svg) | [解答](answer/9b1bb64d.svg) | 9 | 1 | 5 | 3 |
+| 099 | [問題](question/9c3e452f.svg) | [解答](answer/9c3e452f.svg) | 7 | 2 | 4 | 3 |
+| 100 | [問題](question/9c8484c9.svg) | [解答](answer/9c8484c9.svg) | 14 | 3 | 5 | 1 |
+| 101 | [問題](question/9d83b703.svg) | [解答](answer/9d83b703.svg) | 17 | 5 | 3 | 1 |
+| 102 | [問題](question/9f8c1a71.svg) | [解答](answer/9f8c1a71.svg) | 14 | 2 | 4 | 3 |
+| 103 | [問題](question/9fc5bd99.svg) | [解答](answer/9fc5bd99.svg) | 13 | 4 | 3 | 2 |
+| 104 | [問題](question/a14a67e8.svg) | [解答](answer/a14a67e8.svg) | 10 | 2 | 7 | 0 |
+| 105 | [問題](question/a16536dc.svg) | [解答](answer/a16536dc.svg) | 7 | 4 | 4 | 1 |
+| 106 | [問題](question/a26f9ffd.svg) | [解答](answer/a26f9ffd.svg) | 11 | 2 | 4 | 3 |
+| 107 | [問題](question/a2a19314.svg) | [解答](answer/a2a19314.svg) | 8 | 3 | 4 | 2 |
+| 108 | [問題](question/a2e20261.svg) | [解答](answer/a2e20261.svg) | 8 | 5 | 1 | 3 |
+| 109 | [問題](question/a3688028.svg) | [解答](answer/a3688028.svg) | 15 | 5 | 2 | 2 |
+| 110 | [問題](question/a36ba01a.svg) | [解答](answer/a36ba01a.svg) | 6 | 5 | 2 | 2 |
+| 111 | [問題](question/a3bdda98.svg) | [解答](answer/a3bdda98.svg) | 3 | 4 | 5 | 0 |
+| 112 | [問題](question/a41d0032.svg) | [解答](answer/a41d0032.svg) | 8 | 3 | 5 | 1 |
+| 113 | [問題](question/a45f0336.svg) | [解答](answer/a45f0336.svg) | 13 | 2 | 6 | 1 |
+| 114 | [問題](question/a6c9cd9b.svg) | [解答](answer/a6c9cd9b.svg) | 9 | 3 | 3 | 3 |
+| 115 | [問題](question/a9ec2682.svg) | [解答](answer/a9ec2682.svg) | 5 | 2 | 5 | 2 |
+| 116 | [問題](question/ad849901.svg) | [解答](answer/ad849901.svg) | 9 | 4 | 4 | 1 |
+| 117 | [問題](question/afa93adf.svg) | [解答](answer/afa93adf.svg) | 20 | 2 | 4 | 3 |
+| 118 | [問題](question/b0317fc7.svg) | [解答](answer/b0317fc7.svg) | 9 | 3 | 3 | 3 |
+| 119 | [問題](question/b3dca024.svg) | [解答](answer/b3dca024.svg) | 10 | 4 | 2 | 3 |
+| 120 | [問題](question/b3fc1361.svg) | [解答](answer/b3fc1361.svg) | 10 | 3 | 3 | 3 |
+| 121 | [問題](question/b640055b.svg) | [解答](answer/b640055b.svg) | 12 | 2 | 5 | 2 |
+| 122 | [問題](question/b6ee0d93.svg) | [解答](answer/b6ee0d93.svg) | 14 | 4 | 2 | 3 |
+| 123 | [問題](question/b7c6fa3b.svg) | [解答](answer/b7c6fa3b.svg) | 9 | 4 | 1 | 4 |
+| 124 | [問題](question/bb1c6912.svg) | [解答](answer/bb1c6912.svg) | 13 | 3 | 4 | 2 |
+| 125 | [問題](question/bcc11eb9.svg) | [解答](answer/bcc11eb9.svg) | 5 | 1 | 3 | 5 |
+| 126 | [問題](question/bd65096e.svg) | [解答](answer/bd65096e.svg) | 8 | 4 | 3 | 2 |
+| 127 | [問題](question/be7d7fcb.svg) | [解答](answer/be7d7fcb.svg) | 13 | 3 | 4 | 2 |
+| 128 | [問題](question/bf57935f.svg) | [解答](answer/bf57935f.svg) | 13 | 4 | 2 | 3 |
+| 129 | [問題](question/c7677e27.svg) | [解答](answer/c7677e27.svg) | 4 | 4 | 2 | 3 |
+| 130 | [問題](question/c96594b4.svg) | [解答](answer/c96594b4.svg) | 7 | 3 | 3 | 3 |
+| 131 | [問題](question/cb0ab0af.svg) | [解答](answer/cb0ab0af.svg) | 5 | 5 | 3 | 1 |
+| 132 | [問題](question/cbd462ca.svg) | [解答](answer/cbd462ca.svg) | 8 | 2 | 7 | 0 |
+| 133 | [問題](question/cbf8b283.svg) | [解答](answer/cbf8b283.svg) | 7 | 2 | 4 | 3 |
+| 134 | [問題](question/cd05dfdc.svg) | [解答](answer/cd05dfdc.svg) | 4 | 3 | 4 | 2 |
+| 135 | [問題](question/cdb423ec.svg) | [解答](answer/cdb423ec.svg) | 13 | 4 | 2 | 3 |
+| 136 | [問題](question/cdc243be.svg) | [解答](answer/cdc243be.svg) | 11 | 4 | 4 | 1 |
+| 137 | [問題](question/cfcfe189.svg) | [解答](answer/cfcfe189.svg) | 8 | 3 | 4 | 2 |
+| 138 | [問題](question/d020ca0a.svg) | [解答](answer/d020ca0a.svg) | 10 | 3 | 6 | 0 |
+| 139 | [問題](question/d304168d.svg) | [解答](answer/d304168d.svg) | 4 | 5 | 4 | 0 |
+| 140 | [問題](question/d368a920.svg) | [解答](answer/d368a920.svg) | 11 | 6 | 3 | 0 |
+| 141 | [問題](question/d67b78db.svg) | [解答](answer/d67b78db.svg) | 10 | 7 | 1 | 1 |
+| 142 | [問題](question/d74a9345.svg) | [解答](answer/d74a9345.svg) | 7 | 5 | 2 | 2 |
+| 143 | [問題](question/d90fb86f.svg) | [解答](answer/d90fb86f.svg) | 12 | 4 | 3 | 2 |
+| 144 | [問題](question/db9c359a.svg) | [解答](answer/db9c359a.svg) | 9 | 3 | 4 | 2 |
+| 145 | [問題](question/ddb367b2.svg) | [解答](answer/ddb367b2.svg) | 10 | 3 | 4 | 2 |
+| 146 | [問題](question/df7bee43.svg) | [解答](answer/df7bee43.svg) | 6 | 3 | 4 | 2 |
+| 147 | [問題](question/dfb2e4a5.svg) | [解答](answer/dfb2e4a5.svg) | 12 | 4 | 4 | 1 |
+| 148 | [問題](question/e141e622.svg) | [解答](answer/e141e622.svg) | 3 | 1 | 6 | 2 |
+| 149 | [問題](question/e23b345a.svg) | [解答](answer/e23b345a.svg) | 11 | 2 | 4 | 3 |
+| 150 | [問題](question/e70a908d.svg) | [解答](answer/e70a908d.svg) | 7 | 3 | 3 | 3 |
+| 151 | [問題](question/e75c71cf.svg) | [解答](answer/e75c71cf.svg) | 15 | 5 | 2 | 2 |
+| 152 | [問題](question/e7d2b30c.svg) | [解答](answer/e7d2b30c.svg) | 7 | 3 | 3 | 3 |
+| 153 | [問題](question/e80b4a66.svg) | [解答](answer/e80b4a66.svg) | 12 | 3 | 5 | 1 |
+| 154 | [問題](question/e8dd5e25.svg) | [解答](answer/e8dd5e25.svg) | 11 | 5 | 3 | 1 |
+| 155 | [問題](question/e9d51f8c.svg) | [解答](answer/e9d51f8c.svg) | 13 | 3 | 3 | 3 |
+| 156 | [問題](question/eb4bab2b.svg) | [解答](answer/eb4bab2b.svg) | 10 | 4 | 4 | 1 |
+| 157 | [問題](question/ebb0ddb0.svg) | [解答](answer/ebb0ddb0.svg) | 7 | 4 | 5 | 0 |
+| 158 | [問題](question/ec788e79.svg) | [解答](answer/ec788e79.svg) | 7 | 6 | 2 | 1 |
+| 159 | [問題](question/ed76624b.svg) | [解答](answer/ed76624b.svg) | 5 | 4 | 4 | 1 |
+| 160 | [問題](question/eeaf9c5d.svg) | [解答](answer/eeaf9c5d.svg) | 6 | 2 | 5 | 2 |
+| 161 | [問題](question/eef184d7.svg) | [解答](answer/eef184d7.svg) | 24 | 5 | 3 | 1 |
+| 162 | [問題](question/ef48cc9a.svg) | [解答](answer/ef48cc9a.svg) | 9 | 5 | 0 | 4 |
+| 163 | [問題](question/ef7e2e95.svg) | [解答](answer/ef7e2e95.svg) | 14 | 3 | 4 | 2 |
+| 164 | [問題](question/effb4080.svg) | [解答](answer/effb4080.svg) | 6 | 4 | 4 | 1 |
+| 165 | [問題](question/f06e57ab.svg) | [解答](answer/f06e57ab.svg) | 12 | 3 | 3 | 3 |
+| 166 | [問題](question/f48b8eec.svg) | [解答](answer/f48b8eec.svg) | 12 | 4 | 3 | 2 |
+| 167 | [問題](question/fa67924a.svg) | [解答](answer/fa67924a.svg) | 4 | 4 | 3 | 2 |
+| 168 | [問題](question/fb0c46bb.svg) | [解答](answer/fb0c46bb.svg) | 13 | 4 | 2 | 3 |
+| 169 | [問題](question/fb5918c5.svg) | [解答](answer/fb5918c5.svg) | 14 | 3 | 4 | 2 |
+| 170 | [問題](question/fe24ff71.svg) | [解答](answer/fe24ff71.svg) | 5 | 3 | 3 | 3 |
 
-**使用するカード（9枚）:**
-
-| カード名 | 化学式 | レベル |
-|---------|-------|--------|
-| 硫化水素 | H₂S | Lv1 |
-| TNT | C₇H₅N₃O₆ | Lv3 |
-| ヒドロキシ基 | -OH | Lv1 |
-| メチル基 | -CH₃ | Lv1 |
-| 水 | H₂O | Lv1 |
-| 乳酸 | C₃H₆O₃ | Lv2 |
-| グアニジン | CH₅N₃ | Lv2 |
-| ベンゼン | C₆H₆ | Lv2 |
-| グルコース | C₆H₁₂O₆ | Lv3 |
-
-**おはじき予算:**
-
-| 色 | 元素 | 個数 |
-|----|------|------|
-| 緑 | 炭素 (C) | 2個 |
-| 水色 | 水素 (H) | 7個 |
-| 赤 | 酸素 (O) | 2個 |
-
-**合計: 11個**
-
-> **ヒント:** おはじきが0個で接続できるペアを先に確定させると解きやすくなります。
-
----
-
-*お題は随時追加予定です。*
+*新しいお題は随時追加されます。*
