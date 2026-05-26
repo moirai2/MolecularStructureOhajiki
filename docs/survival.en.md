@@ -21,7 +21,7 @@ Everyone starts with 10 marbles. Every time your flicked marble doesn't make it 
 
 2. **Center grid:** Shuffle the Lv1 deck and lay **15 cards face-up in a 5×3 grid** (the remaining 5 cards go into the Lv1 reserve deck). This is the "board"
 
-3. **Element cards:** Place 10 element cards along the **top and bottom edges of the grid** (5 each — C / H / O / N / Other, any order). **The 5 cards on the top edge are rotated 180°** so the kanji labels face the top-side players. These cards form each player's **launch area** (outside the board, not on it)
+3. **Element cards:** Place 10 element cards along the **top and bottom edges of the grid** (5 each — C / H / O / N / Other, any order). **Orient each set of 5 so the labels are readable from the player on that side.** These cards form each player's **launch area** (outside the board, not on it)
 
 4. **Reserve decks:** Stack the remaining cards beside the board (left or right) by level
    - **Lv1 reserve:** 5 cards
@@ -49,7 +49,7 @@ All players flick **simultaneously**.
 
 - Someone calls "**3, 2, 1, GO!**"
 - On "GO!", everyone flicks 1 marble from the **near side of their element cards** (the side with the kanji label facing them)
-- **Landing check:** If the marble is touching **any molecule card on the 5×3 grid**, it has landed. If it touches no molecule card (stops on an element card or the table), it counts as **off-board**
+- **Landing check:** If the marble is resting on any molecule card on the **board (the 5×3 center grid)**, it is **on the board**. Element cards, the mat, and the table are all **off the board** (element cards are physical cards but outside the board — landing on them still counts as off-board). Check by looking from the side.
 - **Marble straddling multiple molecule cards (quantum mechanics model):** When a marble physically touches multiple cards, it counts as **landed on all of them** (skilled players can intentionally straddle to dodge ② collision or ③ max-element). The card it "really" landed on is not decided in advance — the player picks the card at the moment of the survival check (observation collapses the state). **For younger players, the simpler ruling "whichever card it overlaps most" cuts down arguments**
 
 ### Phase ②: Survival check
@@ -58,7 +58,7 @@ Resolve the 3 checks below **in order ① → ② → ③**. **As soon as one tr
 
 | Order | Phase | Trigger | Result |
 |-------|-------|---------|--------|
-| ① | **Off-board** | At least 1 player landed outside the grid (on an element card or the table) | All off-board players lose 1 marble. **Everyone else returns their marble to hand.** Resolution ends |
+| ① | **Off-board** | At least 1 player landed off the board (on an element card, the mat, or the table) | All off-board players lose 1 marble. **Everyone else returns their marble to hand.** Resolution ends |
 | ② | **Collision** | No one triggered ①, and 2+ players landed on the same molecule card | All players on the collided card lose 1 marble. **Everyone else returns their marble to hand.** Resolution ends |
 | ③ | **Max element** | Neither ① nor ② triggered (everyone is on a different molecule card) | **Among the molecule cards that were landed on**, the player on the card with the **highest element total** loses 1 marble (all tied players lose if there's a tie) |
 
@@ -203,6 +203,14 @@ For matchups with skill gaps. Agree on handicaps before starting.
 | Adult vs. age 6–8 | Off-hand + distance |
 | Adult vs. age 9–12 | Off-hand only |
 | Veteran vs. beginner (same age) | Distance or resource |
+
+---
+
+## House Rules Welcome
+
+Player count, board size, starting marble count… feel free to change anything.
+
+**Share your custom rules on X with `#MolSurvival` — we'd love to hear them.**
 
 ---
 

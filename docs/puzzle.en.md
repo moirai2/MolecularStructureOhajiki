@@ -54,8 +54,6 @@ Whether the **count** (number of that element's atoms in the molecule) is the sa
 
 **Constraint:** The element you pick must be present in both cards (count ≥ 1 in each).
 
-The intent is to make "free (touching)" vs. "paid (gap)" visually obvious at a glance.
-
 ### Connection examples (from Puzzle #001)
 
 | Card 1 | Card 2 | Element used | Placement | Cost |
@@ -100,7 +98,15 @@ Just minimizing cost isn't enough — picking which pairs to keep touching vs. s
 
 → **[Puzzle problem set](../puzzles/puzzles.en.md)**
 
-New puzzles are added periodically.
+New puzzles are added periodically. Puzzles are listed in ascending order by marble count. **If you're new, start from the top** — fewer marbles tend to mean simpler structures.
+
+---
+
+## House Rules Welcome
+
+Number of cards, total marble budget, time limit… feel free to change anything.
+
+**Share your custom rules on X with `#MolPuzzle` — we'd love to hear them.**
 
 ---
 

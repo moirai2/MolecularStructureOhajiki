@@ -47,10 +47,11 @@ See the diagram for placement ([larger view](./solitaire_setup.svg)).
 
 ## Terminology
 
-**"On a card":**
-> When a marble comes to rest, **if it's touching a card at all, it's "on" that card.**
+**On the board / off the board:**
+> The **board** means the 3×3 grid of capture-target cards (Lv1 / Lv2 / the face-up target Lv3). The Lv3 spacer cards (face-down) are **outside the board**.
+>
+> When a marble comes to rest: **not touching the mat = on the board** (on some card); **touching the mat = off the board**. Because spacers also lift marbles off the mat, the mat test works cleanly — "not touching the mat" always means on some card. Marbles landing on spacers are handled by step 2 of the turn flow (→ discard pile), so no additional ruling is needed. Check by looking from the side.
 > A marble straddling multiple cards counts as **on all touched cards** (skilled players can do this intentionally).
-> A marble touching no card (just the table) counts as **off-board**.
 
 **Straddling marbles are "fixed at capture time" (quantum mechanics model):**
 > A straddling marble is **not assigned to a specific card in advance**. At the moment you decide "I'm capturing this card" during the capture check, it's locked in as belonging to that card.
@@ -76,7 +77,10 @@ Solo means you just repeat your own turn. Each turn:
 
 2. Check where it landed:
    - **Capture-target card** (Lv1 / Lv2 / face-up target Lv3) → marble stays on it
-   - **Face-down Lv3 (spacer) only** → marble goes to the discard pile
+   - **Face-down Lv3 (spacer) only** → **player's choice**:
+     - **Treat as off-board** (send to discard pile immediately)
+     - **Leave on the spacer** (on a future turn, flick another marble to knock it back onto the grid; if it lands on a capture-target card it counts as on the board)
+     > ★ A marble on the near spacer isn't dead yet. Deciding whether to rescue it or cut your losses is part of the skill.
    - **Off-board** (touching no card) → marble goes to the discard pile
    - **Straddling a capture target AND a spacer:** counts as on the capture
      target only (spacer contact is ignored). Skilled players can graze
@@ -87,9 +91,12 @@ Solo means you just repeat your own turn. Each turn:
      (**decompose** = discard 1 card from your hand to immediately
      reduce this turn's check by that card's element counts.
      Details in the [decomposition section](#decomposition-discard-a-card-for-an-immediate-bulk-reduction)).
+   - **In each cycle of chain capture (step 4), you may declare additional decompositions before the next check begins.**
    - For each card on the board with at least 1 marble on it,
      check whether marbles on the card + element-slot reductions +
      decompositions satisfy the requirement. Capture any that qualify.
+     **(This includes all marbles on the card — not just the one you just flicked,
+     but also any from previous turns still resting there.)**
    - **At the moment of capture, every marble touching the captured
      card (including straddlers) goes to the discard pile.**
      Straddlers are locked in at capture, so they can't contribute to
@@ -127,7 +134,7 @@ provided = (marbles of that color touching the card)
 For every element in the formula, required ≤ provided → capture succeeds
 ```
 
-> Note: Straddling marbles count as "on all touched cards" during the check (quantum superposition). **At the moment of capture they collapse onto the captured card and move to the discard pile**, so they can't contribute to any other card's check (see [Terminology](#terminology)).
+> Note: Straddling marbles count as "on all touched cards" during the check (quantum superposition). **At the moment of capture they collapse onto the captured card and move to the discard pile**, so they can't contribute to any other card's check (see [On the board / off the board](#on-the-board--off-the-board)).
 
 ### Capture examples (no reductions or decompositions)
 
@@ -182,7 +189,8 @@ With H₂O in the oxygen slot (O reduction = 1), target Ethanol C₂H₆O (C=2, 
 
 **Important:**
 - Only **1 element** can be picked per decomposed card (even if the card has multiple)
-- Cards in element slots can also be decomposed — **remove them from the slot to the discard pile** (you lose the reduction)
+- You can decompose cards from your **hand (stock)** or from your **element slots** — for slot cards, remove from the slot to the discard pile (you lose the reduction)
+- **You cannot use the same card for both reduction and decomposition in the same turn.** Once a card leaves the slot, only decomposition applies.
 - You can decompose **multiple cards** in the same turn
 
 ### Decomposition example
@@ -205,8 +213,6 @@ You lose the game once:
 
 - **You have 0 marbles in hand**, AND
 - **Even decomposing every owned card, no grid card can be captured**
-
-> In other words: no marbles to flick, and the marbles already on the cards + reductions + every possible decomposition still can't satisfy "required ≤ provided" for any single card.
 
 The more off-board mistakes you make, the higher your deadlock risk. **Marble economy is the heart of this game.**
 
@@ -233,6 +239,14 @@ Marbles used = 50 − marbles remaining in hand
 The non-slip mat is necessary to anchor the cards — but it also **stops marbles**. When a marble misses a capture-target card and stops on the mat, it can end up barely grazing an adjacent card, causing an unintended capture check.
 
 The fix: surround the target Lv3 (1 face-up) with **6 Lv3 cards placed on the board (1 face-up target + 5 face-down spacers)**. Stray marbles that land on a spacer go straight to the discard pile, eliminating accidental triggers. The 5 face-down spacers act as a "safety net" — together with the face-up target Lv3, that's 6 Lv3 cards placed on the board.
+
+---
+
+## House Rules Welcome
+
+Grid size, target card level, decomposition limits… feel free to change anything.
+
+**Share your custom rules on X with `#MolSolitaire` — we'd love to hear them.**
 
 ---
 

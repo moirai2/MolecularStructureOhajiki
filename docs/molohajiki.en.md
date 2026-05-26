@@ -53,14 +53,27 @@ Players take turns alternately, starting with the start player. A turn has 3 ste
 
 #### Landing check
 
-If a marble is touching a card at all, it counts as **landed on that card**.
+When a marble comes to rest: if it is **not touching the mat, it is on the board** (on a card); if it is **touching the mat, it is off the board**. Check by looking from the side.
 
 **If a marble straddles multiple cards:** The player chooses 1 card at the moment they claim the purchase right. One marble grants at most 1 card's worth of purchase right.
 
+**Important:** The purchase right fires **only when the marble you flicked this turn lands on the board.** Leftover marbles (from previous turns) and leftover marbles knocked around by your flick do not generate a purchase right.
+
 | Landing outcome | Result |
 |-----------------|--------|
-| Touches a card (**any color**) | Gain a **purchase right** for that card → decide whether to buy in step (2) |
-| Lands off the play area / touches no card | The flicked marble **returns to the bag** (no purchase right, end of turn) |
+| **On the board** (marble not touching the mat — any color) | Gain a **purchase right** for that card → decide whether to buy in step (2) |
+| **Off the board** (marble touching the mat) | The flicked marble **returns to the bag** (no purchase right). The [purchase right penalty](#purchase-right-penalty) is triggered |
+
+**Example (color-agnostic purchase right):**
+> You only have a yellow marble left in hand. There's an H₂O card in front of you.
+> → Flick the yellow marble onto H₂O and you gain the purchase right.
+> → You still need to pay H₂O's cost (white × 2, red × 1) from your hand. If you can't pay, the purchase right expires and the yellow marble stays as a leftover.
+> → However, if you have a reduction card in the hydrogen slot (−2) and the oxygen slot (−1), the total cost drops to zero — you can buy it with just the yellow marble landing on it. Your deck growing makes even the "wrong" colors useful.
+
+**Example (leftover marbles don't trigger purchase rights):**
+> Your red marble has been sitting on CO₂ as a leftover since your last turn.
+> This turn you draw 3 marbles and flick a black marble — it lands on a different card.
+> → Despite the leftover red being on CO₂, **you have no purchase right for CO₂ this turn.** To buy CO₂ you need this turn's flicked marble to land on it (be on the board).
 
 #### Leftover marbles (terminology)
 
@@ -72,7 +85,7 @@ Marbles sitting on a card that haven't been collected by anyone yet are called *
 
 #### Purchase right penalty
 
-If the result of your flick sends any marble **outside the card grid** (your own marble or a leftover marble), **place the title card in front of yourself**.
+If the result of your flick sends any marble **off the board** (touching the mat — your own marble or a leftover marble), **place the title card in front of yourself**.
 
 - While you hold it, **you cannot buy cards** (even if your marble lands, it stays as a leftover)
 - The penalty is lifted at **the end of your next turn**
@@ -123,6 +136,21 @@ After placement/rearrangement, process the following in order:
 
 3. **Refill the grid:** Fill empty slots face-up from the decks (**prefer the same level first**; if that level is empty, draw from the next level up)
 4. Pass the turn to the next player
+
+### Full turn example
+
+**Situation:** 2 white marbles in hand. H₂O placed in the **hydrogen slot** (hydrogen cost −2). CH₄ (C=1, H=4) is on the grid.
+
+| Step | Action | Hand state |
+|------|--------|------------|
+| ① Draw 3 from bag | Black, white, red come out | Black ×1, white ×3, red ×1 |
+| ② Flick 1 white | On the board on CH₄ → purchase right | Flicked white is on the board |
+| ③ Buy CH₄ | Cost C1 H4; H₂O reduction gives −2 H → pay black ×1, white ×2 to bag | Black ×0, white ×1, red ×1 |
+| ④ Place CH₄ in carbon slot | Carbon cost −1 active from now on | — |
+| ⑤ Collect marbles | Flicked white ×1 back to hand (no leftover) | White ×2, red ×1 (3 total) |
+| ⑥ End-of-turn check | 3 total, max 2 of one color → within limits | — |
+
+→ Refill the grid and pass to your opponent.
 
 ---
 
@@ -192,11 +220,10 @@ When acquiring a new molecule card, you can **decompose** an existing card to re
 | Usage frequency | Any number of times | Once, then gone |
 | Example (H₂O, H=2, O=1) | In H slot: -2 H only | Choose -2 H **or** -1 O |
 
-- **You can't do both with the same card** (once you remove it from the slot, only decomposition applies)
 - With multiple cards, one can be used for reduction and another for decomposition
 
 **Decomposition procedure:**
-1. Declare "I'm decomposing this card" and remove 1 card from your element slots (cannot be undone)
+1. Declare "I'm decomposing this card" and choose 1 card from your **hand (stock)** or **element slots** (cannot be undone). If choosing a slot card, remove it from the slot — it loses its reduction effect.
 2. Choose **1 element** present in that card and reduce the cost by that element's count
    - Example: H₂O → choose either "-2 H" or "-1 O"
 3. Put the decomposed card in the discard pile (cannot be reused)
@@ -208,8 +235,6 @@ When acquiring a new molecule card, you can **decompose** an existing card to re
 - CO₂ in the carbon slot → use for reduction (−1 C, stays in slot)
 - H₂O in the oxygen slot → decompose, choose oxygen (−1 O, goes to discard)
 - Effective cost: **C1 H6**
-
-You cannot decompose a card you just acquired this turn (1 card max acquired per turn).
 
 ---
 
@@ -265,6 +290,14 @@ When the stronger player successfully lands on their target, deduct 1 point (or 
 | Adult vs. age 9–12 | Off-hand only |
 | Veteran vs. beginner (same age) | Distance or resource |
 | Party / laughs first | Blindfold |
+
+---
+
+## House Rules Welcome
+
+Grid size, point threshold, decomposition limits, launcher position… feel free to change anything. These rules are a starting point, not a finished product.
+
+**Share your custom rules on X with `#MolOhajiki` — we'd love to hear them.**
 
 ---
 

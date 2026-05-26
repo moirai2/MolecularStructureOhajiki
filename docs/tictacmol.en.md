@@ -19,7 +19,7 @@ A two-player duel: flick marbles simultaneously and try to hold 3 cards in a row
 
 1. The two players sit **face-to-face across the board**
 2. Each player chooses 10 marbles of their color and keeps them in hand
-3. Shuffle the Lv1 deck, then place **9 cards face-up in a 3×3 grid**, each card oriented **landscape**
+3. Shuffle the Lv1 deck, then place **9 cards face-up in a 3×3 grid** (any orientation)
 4. Lay **3 element cards (C / H / O) above and below the grid**, also in landscape orientation, as a buffer (the 3 cards together match the grid's width; orient each pair so the labels face the player on that side)
 5. Place the **2 player cards (launchers)** outside the element-card rows (further from the grid, on each player's side), one per player, in portrait orientation. **Marbles are placed on the launcher and flicked from there** (the card surface is slippery, which makes flicking easier)
 6. Stack the rest of the Lv1, Lv2, and Lv3 decks face-down beside the board (right side recommended)
@@ -44,7 +44,7 @@ The game repeats **rounds**. Each round is:
 2. Either player calls "**3, 2, 1, GO!**"
 3. On "GO!" both players flick 1 marble **from their own launcher card** simultaneously
 4. Wait for marbles to **come to a complete stop** (even if marbles collide, only the final resting position matters)
-5. **Landing check:** if a marble is touching **any molecule card on the board (Lv1 / Lv2 / Lv3)** at all, it has landed. If it touches no molecule card (fully off the board), return it to its owner
+5. **Landing check:** if a marble is resting on any molecule card in the **board (the 3×3 grid)**, it is **on the board**. Element cards, the mat, and the table are all **off the board** (element cards are physical cards but outside the board — landing on them still counts as off-board). Off-board marbles return to their owner. (Check by looking from the side.)
 6. **Three-in-a-row check** (below)
 7. Acquire cards and refill
 
@@ -170,7 +170,7 @@ Score = total **fg pt (functional group points)** of captured cards. Highest sco
 ## FAQ
 
 **Q: Does landing on a card always let me hold it?**
-A: Yes. Regardless of marble color, **touching any molecule card on the board (Lv1 / Lv2 / Lv3) at all** counts as holding it.
+A: Yes. Regardless of marble color, landing on **any molecule card within the board (the 3×3 grid, Lv1 / Lv2 / Lv3)** counts as holding it. Landing on an element card counts as off-board and does not give a hold.
 
 **Q: What if my marble straddles multiple cards?**
 A: It counts as holding all touched cards (multi-holding). The card-assignment is not decided in advance — the player picks the most advantageous one at the moment of the check (quantum mechanics model). 1 marble = 1 card's worth of hold at most, so you can never lock 3 cards with just 2 marbles. Marbles touching no molecule card are off-board and returned to the owner.
@@ -294,6 +294,14 @@ For games with skill gaps. Agree on handicaps with all players before starting.
 | Adult vs. age 6–8 | Off-hand + distance |
 | Adult vs. age 9–12 | Off-hand only |
 | Veteran vs. beginner | Distance or resource |
+
+---
+
+## House Rules Welcome
+
+Grid size, win conditions, how cards are dealt… feel free to change anything. These rules are a starting point, not a finished product.
+
+**Share your custom rules on X with `#TicTacMol` — we'd love to hear them.**
 
 ---
 
