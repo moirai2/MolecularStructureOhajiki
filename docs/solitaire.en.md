@@ -244,7 +244,7 @@ The fix: surround the target Lv3 (1 face-up) with **6 Lv3 cards placed on the bo
 
 ## House Rules Welcome
 
-Change anything you like. Share ideas on X with `#MolSolitaire`.
+Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 

@@ -299,7 +299,7 @@ For games with skill gaps. Agree on handicaps with all players before starting.
 
 ## House Rules Welcome
 
-Change anything you like. Share ideas on X with `#TicTacMol`.
+Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 

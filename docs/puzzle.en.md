@@ -97,7 +97,7 @@ New puzzles are added periodically. Listed in ascending order by marble count. *
 
 ## House Rules Welcome
 
-Change anything you like. Share ideas on X with `#MolPuzzle`.
+Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 

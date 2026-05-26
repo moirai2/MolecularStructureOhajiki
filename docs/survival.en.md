@@ -208,7 +208,7 @@ For matchups with skill gaps. Agree on handicaps before starting.
 
 ## House Rules Welcome
 
-Change anything you like. Share ideas on X with `#MolSurvival`.
+Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
