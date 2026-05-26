@@ -21,7 +21,7 @@ A dexterity game with educational depth: flick ohajiki marbles to collect elemen
 
 1. Put all **ohajiki marbles** (50 total = 5 colors × 10) into the bag
 2. Separate the **molecule cards** into Lv1, Lv2, Lv3, shuffle each, and place them face-down beside the play area
-3. Draw **12 cards from the Lv1 deck** and lay them face-up in a **3×4 grid** (recommended; for tight tables a 3×3 / 9-card grid is acceptable)
+3. Draw **12 cards from the Lv1 deck** and lay them face-up in a **3×4 grid**
 4. Give each player **5 element cards** (Carbon, Hydrogen, Oxygen, Nitrogen, Other) and **1 launcher card**
    - Lay the element cards face-up in a row in front of the player
    - **Element cards serve as "element slots": place owned marbles on the matching color card (public information), and stack acquired molecule cards into the slots (1 card per slot max)**
@@ -120,7 +120,7 @@ You can buy **at most 1** card you gained a purchase right for this turn (the ca
 
 When you acquire a card, you must **place and finalize it in an element slot during your own turn**. Placement cannot be changed until you acquire the next card.
 
-- **One card per slot** (5 slots, 5 cards max). If all 5 are full, send 1 existing card to the **discard pile** before placing the new one (discarded cards cannot be reused)
+- **One card per slot** (5 slots, 5 cards max). If all 5 are full when you acquire a new card, add it to your slots, **freely rearrange and experiment until you are happy with the layout, then send 1 card to the discard pile** to return to 5 (discarded cards cannot be reused)
 
 ### End-of-turn upkeep
 
@@ -232,9 +232,12 @@ When acquiring a new molecule card, you can **decompose** an existing card to re
 **Note:** Standard rule allows decomposing at most 1 card per turn.
 
 **Example:** Target C₂H₆O (Ethanol, base cost C2 H6 O1)
-- CO₂ in the carbon slot → use for reduction (−1 C, stays in slot)
-- H₂O in the oxygen slot → decompose, choose oxygen (−1 O, goes to discard)
-- Effective cost: **C1 H6**
+State: CO₂ in carbon slot, CH₄ in hydrogen slot, H₂O in oxygen slot. Hand: black ×1, red ×1
+
+- CO₂ (carbon slot) → C1 reduction applies automatically
+- CH₄ (hydrogen slot) → H4 reduction applies automatically
+- H₂O (oxygen slot) → decompose, choose **hydrogen** → H2 additional reduction (goes to discard)
+- Remaining cost C1 · O1 → pay black ×1, red ×1 from hand to complete the purchase
 
 ---
 
@@ -250,7 +253,26 @@ Pick from the options below before starting. You can combine freely.
 | **1 card limit** | Decompose at most 1 card per turn | Standard |
 | Unlimited | Decompose any number per turn | Experts / solo |
 
-### 2. End condition
+### 2. Grid size
+
+Use a smaller grid when table space is limited.
+
+| Option | Description | Recommended for |
+|--------|-------------|-----------------|
+| 3×3 (9 cards) minimum | For tight tables | Space-limited setups |
+| **3×4 (12 cards)** | Standard size | Standard |
+| 4×4 (16 cards) | More options when space allows | Large tables |
+
+### 3. Wild marbles
+
+A rule to reduce the frustration of not drawing the color you need. **Any 2 marbles of any color** can be spent as **1 marble of a missing color** when paying card costs.
+
+| Option | Description | Recommended for |
+|--------|-------------|-----------------|
+| **Off** | Pay only with the colors you drew | Standard |
+| Wild 2:1 | Any 2 marbles substitute for 1 of a missing color | Casual / beginners |
+
+### 4. End condition
 
 | Option | Description | Recommended for |
 |--------|-------------|-----------------|
@@ -278,9 +300,6 @@ Give the weaker player 5 marbles to start with
 
 ### Blindfold handicap
 The stronger player closes their eyes while flicking
-
-### Accuracy penalty
-When the stronger player successfully lands on their target, deduct 1 point (or give 1 point to the opponent)
 
 ### Suggested combinations
 
