@@ -17,7 +17,7 @@ A solo puzzle: place 9 molecule cards into a 3×3 grid and connect every pair of
 
 ## Components
 
-- **Puzzle:** Pick one from [the `puzzles/public/` folder on GitHub](https://github.com/moirai2/MolecularStructureOhajiki/tree/main/puzzles/public) or from [X (@AkiraMeruru)'s daily posts](https://x.com/AkiraMeruru)
+- **Puzzle:** Pick one from [the `puzzles/` folder on GitHub (puzzle index)](https://github.com/moirai2/MolecularStructureOhajiki/tree/main/puzzles)
   (each puzzle specifies "the 9 molecule cards to use" and "the marble colors and counts to use")
 - **9 molecule cards:** Take the specified cards from your MolOhajiki set
 - **Marbles:** Take the specified colors and counts from your MolOhajiki set
@@ -87,26 +87,17 @@ You can rearrange cards as many times as you like. Swapping between touching/apa
 
 ---
 
-## Difficulty
-
-The marble budget for each puzzle is designed to be spent **exactly**.
-Just minimizing cost isn't enough — picking which pairs to keep touching vs. spread apart is the heart of the puzzle.
-
----
-
 ## Puzzle problems
 
 → **[Puzzle problem set](../puzzles/puzzles.en.md)**
 
-New puzzles are added periodically. Puzzles are listed in ascending order by marble count. **If you're new, start from the top** — fewer marbles tend to mean simpler structures.
+New puzzles are added periodically. Listed in ascending order by marble count. **Start from the top if you're new** — just minimizing cost isn't always enough; some puzzles require deliberate high-cost connections to spend the budget exactly.
 
 ---
 
 ## House Rules Welcome
 
-Number of cards, total marble budget, time limit… feel free to change anything.
-
-**Share your custom rules on X with `#MolPuzzle` — we'd love to hear them.**
+Change anything you like. Share ideas on X with `#MolPuzzle`.
 
 ---
 

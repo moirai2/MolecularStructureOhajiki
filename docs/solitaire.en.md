@@ -244,9 +244,7 @@ The fix: surround the target Lv3 (1 face-up) with **6 Lv3 cards placed on the bo
 
 ## House Rules Welcome
 
-Grid size, target card level, decomposition limits… feel free to change anything.
-
-**Share your custom rules on X with `#MolSolitaire` — we'd love to hear them.**
+Change anything you like. Share ideas on X with `#MolSolitaire`.
 
 ---
 

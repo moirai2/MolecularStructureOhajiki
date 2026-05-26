@@ -295,9 +295,7 @@ When the stronger player successfully lands on their target, deduct 1 point (or 
 
 ## House Rules Welcome
 
-Grid size, point threshold, decomposition limits, launcher position… feel free to change anything. These rules are a starting point, not a finished product.
-
-**Share your custom rules on X with `#MolOhajiki` — we'd love to hear them.**
+Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 

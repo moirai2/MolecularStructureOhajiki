@@ -208,9 +208,7 @@ For matchups with skill gaps. Agree on handicaps before starting.
 
 ## House Rules Welcome
 
-Player count, board size, starting marble count… feel free to change anything.
-
-**Share your custom rules on X with `#MolSurvival` — we'd love to hear them.**
+Change anything you like. Share ideas on X with `#MolSurvival`.
 
 ---
 

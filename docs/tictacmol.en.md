@@ -154,7 +154,7 @@ Score = total **fg pt (functional group points)** of captured cards. Highest sco
 |-------|-------------|------|
 | Lv1 | ~0 pt | Early-game territory, triggers board evolution |
 | Lv2 | 0–4 pt | Mid-game point spread |
-| Lv3 | 4–6 pt | Late-game high-value brawls |
+| Lv3 | 2–6 pt | Late-game high-value brawls |
 
 ---
 
@@ -299,9 +299,7 @@ For games with skill gaps. Agree on handicaps with all players before starting.
 
 ## House Rules Welcome
 
-Grid size, win conditions, how cards are dealt… feel free to change anything. These rules are a starting point, not a finished product.
-
-**Share your custom rules on X with `#TicTacMol` — we'd love to hear them.**
+Change anything you like. Share ideas on X with `#TicTacMol`.
 
 ---
 
