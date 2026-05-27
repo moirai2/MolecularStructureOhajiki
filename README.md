@@ -47,7 +47,11 @@
 
 分子パズル用のお題はこちら：
 
-→ **[パズルお題集](puzzles/puzzles.md)**
+→ **[MolPuzzle お題集](puzzles/puzzles.md)**（170問・3×3グリッド）
+
+MolOhajiki 用の詰め分子問題集：
+
+→ **[詰め分子パズル問題集](puzzles/tsumebunshi.md)**（50問・元素枠配置）
 
 ---
 
