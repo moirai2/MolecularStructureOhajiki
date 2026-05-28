@@ -348,8 +348,8 @@ GitHubページへのQRコードを印刷した名刺をブースに置いてお
 ## 参考リンク
 
 - [ゲームマーケット公式サイト](https://gamemarket.jp/)
-- [出展申し込み・チャック横丁プランについて](https://gamemarket.jp/entry)
-- [チャック横丁について（公式ブログ）](https://www.gamemarket.jp/blog/189304)
+- [ゲームマーケット2026春 出展者の手引き（公式PDF）](https://gamemarket.jp/pdfs/ゲームマーケット2026春_出展者の手引き.pdf)（チャック横丁の条件・料金など詳細記載）
+- [チャック横丁の概要説明（くだん氏によるゲムマブログ記事）](https://www.gamemarket.jp/blog/189304)
 - [分子構造おはじきゲーム GitHub](https://github.com/moirai2/MolecularStructureOhajiki)
 - [ゲームマーケット初出展で380個売った話（参考note）](https://note.com/beinteractive/n/n15fab165d601)
 - [初出展で知っておきたかったこと（参考note）](https://note.com/yasudadesu/n/n4b3ec6eb999f)
