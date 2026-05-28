@@ -150,7 +150,7 @@ Players flick one at a time, clockwise from the start player. Later players see 
   - → If you're going to attack, **move them within the board**. Knocking them fully off costs you
   - → Skilled play: push an opponent's marble from a low-total card onto a high-total card, sticking them with ③ max risk
 - **If nobody pushed anyone off-board:** After all turns are taken, resolve ① off-board → ② collision → ③ max element as the normal cascade
-- **If your own flick fails (you went off-board on your own):** Normal ① off-board; you lose 1 at the end-of-round resolution
+- **If your own flick fails (you went off-board on your own):** The round continues normally; after all turns are taken, the ① off-board → ② collision → ③ max element cascade is resolved (your marble is off-board, so you lose 1 under ① off-board). However, **if someone later pushes another player's marble off the board, that push-off rule takes immediate priority and ends the round**
 - **Start player rotation:** Later flicks are advantageous, so the start player rotates **counter-clockwise** by 1 each round
 
 → Balance between aggression and precision. Pushing opponents fully off-board hurts you, so careful control matters. **Age 10+.**
@@ -163,6 +163,7 @@ Block your sight at the moment of flicking — chaos for laughs.
 - Flick as usual from the near side of your element cards (the landing is mostly luck)
 - Survival check runs normally
 - Apply to everyone / only to some players (as a handicap) — both work
+- **Can be combined with Variant 2 (turn-based mode).** In that case, each player closes their eyes when their own turn begins, then opens them after flicking
 
 → Closes skill gaps dramatically, so it's also a good handicap for mixed-age groups or strong flickers.
 
@@ -212,4 +213,4 @@ Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+[← Back to game list](../README.en.md#the-seven-games)

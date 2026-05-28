@@ -81,7 +81,10 @@ Molecules with more complex or unusual functional groups score higher.
 - Lv2 cards: 1–4 pt
 - Lv3 cards: 2–6 pt
 
-In **MolOhajiki (main game)**, exceeding a total of 10 fg pt triggers the end of the round.
+**How fg pt is used in each game:**
+- **MolOhajiki (main game):** Exceeding a combined total of 15 fg pt triggers the end of the round. The winner is decided by majority (most element categories won), but fg pt is used as a tiebreaker.
+- **TicTacMol:** The sum of fg pt on all cards you have claimed is your final score. This is the reason to aim for Lv3 cards.
+- **MolSolitaire:** The face-up Lv3 goal card on the grid carries fg pt; collecting it completes your game.
 
 ---
 
@@ -106,4 +109,4 @@ Higher levels need more marbles to acquire, and tend to score higher.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+[← Back to game list](../README.en.md#the-seven-games)

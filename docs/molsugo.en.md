@@ -140,6 +140,7 @@ Print the player mat yourself at A4 landscape ([SVG](./molsugo_playerboard.svg))
 - Starting value: 6 · 6 · 6 · 6 · 6 (6 of each element)
 - **Maximum: 6** (an element already at 6 cannot be recovered further)
 - **Minimum: 0** (cannot purchase if insufficient resources)
+- **Representing 0:** Because dice faces only go from 1 to 6, a resource of 0 is shown by **removing that die from the player mat** (absent = 0). When that element is recovered, set the die to 1 and place it back on the mat.
 
 ### Recovering resources (not buying)
 
@@ -154,7 +155,9 @@ When landing on a molecule card and choosing **not to buy**:
 
 ### Title card (Start space)
 
-- **Landing or passing:** all element dice +1 (max 6)
+- **Landing:** all element dice +1 (max 6)
+- **Passing:** all element dice +1 (max 6)
+- Landing and passing are handled separately. If you land on the title card, you do **not** also receive the passing bonus — it is one or the other, not both.
 - **Cannot be purchased**
 
 ---
@@ -199,7 +202,7 @@ A card can be purchased if  **amount paid ≤ current die face**  for every elem
 
 - Remove the purchased card from the loop; stack it on the matching element slot of your mat
 - **Slide all subsequent cards forward to close the gap** (no empty spaces)
-- Any player markers sitting on the removed card move to the **next card** that has closed in. Markers on all other cards do not move.
+- Any player markers sitting on the removed card (the buyer's marker and any co-occupants) move to the **card immediately before the purchased card** (one step back in the clockwise direction). Markers on all other cards do not move.
 
 ---
 
@@ -217,12 +220,14 @@ A card can be purchased if  **amount paid ≤ current die face**  for every elem
 
 ## Majority showdown (simultaneous reveal)
 
-After the game ends, players compete category by category across the five elements (Carbon · Hydrogen · Oxygen · Nitrogen · Other). Cards used in one category **cannot be used in another**, so deciding where to commit each card is crucial.
+After the game ends, players compete category by category across the five elements in the fixed order **Carbon → Hydrogen → Nitrogen → Oxygen → Other**. Cards used in one category **cannot be used in another**, so deciding where to commit each card is crucial.
+
+> **Each player's collection = all cards accumulated during the game: element slots (up to 5 cards) + hand cards.** Cards played in one category are discarded and cannot be used in any subsequent category.
 
 ### Procedure
 
-1. **Choose a category** (starting with Carbon works fine)
-2. Each player **selects 1 card from their collection (element slots + hand cards) and places it face-down** (players may also choose not to submit)
+1. Resolve categories in order: **Carbon → Hydrogen → Nitrogen → Oxygen → Other**
+2. Each player **selects 1 card from their collection (element slots + hand cards) and places it face-down** (players may also choose not to submit a card — they cannot win that category, but they preserve the card for later)
 3. When everyone is ready, **flip all cards simultaneously on a shared call**
    > Use whatever call your table likes — "Ready, go!", "3-2-1-flip!", "いっせいのせい", "Fight!" — anything works.
 4. The player whose card contains the **most of that category's element** wins the category → **+1 majority point**

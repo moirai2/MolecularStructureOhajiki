@@ -52,6 +52,8 @@ Whether the **count** (number of that element's atoms in the molecule) is the sa
 | Chosen element count **matches** on both cards | Place cards **touching** (edge to edge) | 0 marbles (free) |
 | Counts **differ** | Place cards **apart**, with the difference in marbles in the gap | 1 marble of that color per unit of difference |
 
+> **What "touching" means:** The two cards must share a full edge — their sides must be in physical contact. Corner-only contact does not count; only edge contact is valid.
+
 **Constraint:** The element you pick must be present in both cards (count ≥ 1 in each).
 
 ### Connection examples (from Puzzle #001)
@@ -101,4 +103,4 @@ Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+[← Back to game list](../README.en.md#the-seven-games)

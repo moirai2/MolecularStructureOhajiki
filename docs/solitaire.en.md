@@ -106,6 +106,7 @@ Solo means you just repeat your own turn. Each turn:
 4. Reorganize your element slots:
    - Place / swap captured cards into the slots
    - If a slot is full, you may take a card out of it back into your hand (stock)
+   - **Swaps are final and cannot be undone.** If a swap lowers a reduction so that a marble already on a card no longer meets the requirement, that card cannot be captured (even if a marble is on it).
    - **★ Chain captures:** changes to element-slot placement can change
      reductions, which may newly satisfy another card on the board that
      already has marbles on it. Capture that one too in the same turn.
@@ -242,10 +243,26 @@ The fix: surround the target Lv3 (1 face-up) with **6 Lv3 cards placed on the bo
 
 ---
 
+## Tips for winning
+
+**Aim for double coverage:** Prioritize flick positions where a miss still lands somewhere useful. Aim deep, but if a marble stops one row short it may still help on a future turn. Even better — aim for the border between two cards (the straddling zone), so one marble counts as being on both. You can then choose which card to capture.
+
+**Grab single-element Lv1 cards first:** H₂, N₂, O₂, O₃, Cl₂ are all single-element Lv1 cards that are easy to capture. Slot them into your element rack for a permanent reduction (O₃ gives O reduction = 3, O₂ gives 2), bringing the cost of many larger molecules close to zero. Even if your rack is already full, they make excellent decomposition fuel later — there's no downside to picking them up.
+
+**Marbles on a card are an asset:** Don't despair if a marble stops on a hard-to-capture card. As your engine grows the requirements become easier to meet, and a marble that's been sitting there will eventually pay off — a lucky miss can turn into a reward.
+
+**"Other" marbles are a late-game ace:** Cards requiring the "Other" element are rare, so yellow marbles often pile up. But once your rack is well-developed, flicking a yellow marble onto a card can still trigger a successful capture — yellow doesn't contribute to C/H/O/N costs, but the marble's presence triggers the capture check, and the remaining costs can be covered by slot reductions. Use leftover yellows as flicking tokens in the late game.
+
+**Finish with a decomposition burst:** Carbon (C) and hydrogen (H) are the biggest hurdles — Lv3 cards demand C=6–12 and H=4–13, which you can rarely cover with marbles alone. The standard finishing move is: collect cards that cost zero marbles to capture, stockpile them in hand, then decompose them all at once to clear the Lv3's requirements in a single turn. If you have 3–4 C-bearing cards in hand, a mass decomposition can bulk-exempt C=6+. Focus early turns on zero-cost pickups, then execute the burst finish when your engine is ready — this is the key to a low marble count.
+
+---
+
 ## House Rules Welcome
 
 Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+**Practice problems:** [Tsumebunshi problem set](../puzzles/tsumebunshi.md) (50 problems · element slot placement)
+
+[← Back to game list](../README.en.md#the-seven-games)

@@ -19,7 +19,7 @@ A two-player duel: flick marbles simultaneously and try to hold 3 cards in a row
 
 1. The two players sit **face-to-face across the board**
 2. Each player chooses 10 marbles of their color and keeps them in hand
-3. Shuffle the Lv1 deck, then place **9 cards face-up in a 3×3 grid** (any orientation)
+3. Shuffle the Lv1 deck, then place **9 cards face-up in a 3×3 grid** (align the cards into a tidy grid — gaps or skewed cards make landing checks harder)
 4. Lay **3 element cards (C / H / O) above and below the grid**, also in landscape orientation, as a buffer (the 3 cards together match the grid's width; orient each pair so the labels face the player on that side)
 5. Place the **2 player cards (launchers)** outside the element-card rows (further from the grid, on each player's side), one per player, in portrait orientation. **Marbles are placed on the launcher and flicked from there** (the card surface is slippery, which makes flicking easier)
 6. Stack the rest of the Lv1, Lv2, and Lv3 decks face-down beside the board (right side recommended)
@@ -303,4 +303,4 @@ Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+[← Back to game list](../README.en.md#the-seven-games)

@@ -80,6 +80,8 @@ Place everything as shown below ([larger view](./molunion_setup.svg)).
 
 **Straddling marbles (quantum mechanics model):**
 > A marble touching multiple cards counts as being on all of them. At the moment a player decides to capture a specific card, they assign the straddler to that card — it locks in at capture time.
+>
+> **Special case:** If a marble straddles a spacer (face-down Lv3) and a capture-target card, it counts as being on the capture-target card only (spacer contact is ignored).
 
 ---
 
@@ -151,7 +153,7 @@ Discard a card from the **shared stock** or the **shared element rack**, and app
 
 - Only **1 element type** can be chosen from a single decomposed card
 - The decomposed card goes to the discard pile. **If taken from the element rack, its reduction bonus is also lost**
-- The active player announces decomposition, but **everyone can discuss** which card to use
+- The active player announces decomposition, but **everyone can discuss** which card to use; the **final decision rests with the active player**
 - Multiple cards may be decomposed in a single turn
 
 ---

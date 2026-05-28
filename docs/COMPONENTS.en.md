@@ -37,6 +37,8 @@
 - **Count:** 5 per player
 - **Size:** Business-card size (91 × 55mm)
 
+> **How element cards are used varies by game:** In MolOhajiki, MolSolitaire, and MolUnion they are distributed to each player (5 per player) and used as a player board. In MolSurvival they are placed face-up as shared launching areas along the top and bottom edges of the grid. **In MolSugo all 10 cards are used as board spaces in the loop track** and are not distributed to players. In TicTacMol only 3 of the 5 types (Carbon, Hydrogen, Oxygen — 6 cards total) are used.
+
 ### 3. Molecule cards
 
 Sorted by molecular complexity into 3 levels.
@@ -78,7 +80,7 @@ See [GLOSSARY.en.md](./GLOSSARY.en.md) for a fuller chemistry primer.
 #### About functional group points (fg pt)
 
 A score that represents how "strong" or "complex" a molecule is.
-In **MolOhajiki (main game)**, exceeding a total of 10 fg pt triggers the end of the round.
+In **MolOhajiki (main game)**, exceeding a total of 15 fg pt triggers the end of the round.
 
 - Lv1: mostly 0 pt
 - Lv2: 1–4 pt
@@ -158,6 +160,10 @@ In **MolOhajiki (main game)**, exceeding a total of 10 fg pt triggers the end of
 ### 4. Other cards
 
 - **Title / QR card:** 1 (front: title + credits, back: QR code to full rules)
+  - MolOhajiki: used as a marker for the card-purchase-right penalty
+  - MolSolitaire: used as a spacer placed between the two launcher cards
+  - MolUnion: used as a launching pedestal placed at the center of the top edge of the grid
+  - MolSugo: used as the "Start" space in the loop track
 - **Player cards:** 2 (used as ohajiki launchers)
 
 **Full breakdown of one set (63 cards):**
@@ -191,14 +197,20 @@ In **MolOhajiki (main game)**, exceeding a total of 10 fg pt triggers the end of
 
 ---
 
+### 6. Non-slip mat (Required)
+
+Laminated cards slide easily on a table. Without a mat, flicked ohajiki will shift the cards and ruin the judgment.  
+**Use a non-slip mat for every game.** It is especially critical for MolSolitaire.
+
+- We recommend **Daiso's non-slip mat** (110 yen), easy to size to your table
+  - Product page: https://jp.daisonet.com/products/4940921836738
+- Similar products are available at Seria and other 100-yen shops
+
+---
+
 ## Nice-to-have items
 
 **Drawstring bag:**
 - Needed for blind-drawing ohajiki marbles
 - Available at 100-yen shops (Daiso, Seria, etc.) and on-site at Game Market
 - Any color or pattern is fine
-
-**Non-slip mat:**
-- Laminated cards slide easily on a table — a mat underneath makes play much smoother
-- We recommend **Daiso's non-slip mat** (110 yen), easy to size to your table
-  - Product page: https://jp.daisonet.com/products/4940921836738

@@ -108,6 +108,7 @@ You can buy **at most 1** card you gained a purchase right for this turn (the ca
 
 3. **Payment:** Pay the reduced cost using **marbles in your hand** (paid marbles **return to the bag**)
    - Marbles on cards (flicked or leftover) cannot be used to pay
+   - **Pay before collecting marbles** (step 5); you cannot use marbles you haven't collected yet
    - **If you can't pay** → the purchase right is lost; the flicked marble becomes a **leftover marble** on that card
 
 4. **Acquire the card → place it in an element slot.** Place the new card in one of your 5 element slots (placement/rearrangement rules below)
@@ -127,14 +128,14 @@ When you acquire a card, you must **place and finalize it in an element slot dur
 After placement/rearrangement, process the following in order:
 
 1. **Functional group point end check:** If your total is 15 fg pt or more → triggers game end (see [End condition](#end-condition))
-2. **Hand size cap check:** Return any marbles exceeding the limits below to the bag
+2. **Hand size cap check:** Return any marbles exceeding the limits below to the bag (the player freely chooses which marbles to return)
 
 | Limit type | Maximum |
 |------------|---------|
 | Total marbles in hand | **10 total** |
 | Same-color marbles | **5 of any one color** |
 
-3. **Refill the grid:** Fill empty slots face-up from the decks (**prefer the same level first**; if that level is empty, draw from the next level up)
+3. **Refill the grid:** Fill empty slots face-up from the decks (**draw from Lv1 while the Lv1 deck lasts; once Lv1 is exhausted draw from Lv2, then Lv3**)
 4. Pass the turn to the next player
 
 ### Full turn example
@@ -196,6 +197,9 @@ The player who won the most element categories wins.
 ---
 
 ## FAQ
+
+### Q: I bought a card that had my opponent's leftover ohajiki on it. What happens to those marbles?
+A: All ohajiki on the card go to the buyer — regardless of who originally placed them there. Stealing your opponent's leftover ohajiki and protecting your own is one of the core thrills of MolOhajiki.
 
 ### Q: I placed H₂O in the hydrogen slot. Can I also use it as oxygen?
 A: No. Only the slot's element counts. The hydrogen slot contributes only 2 hydrogen.
@@ -318,4 +322,6 @@ Change anything you like. Share ideas on X with `#MolOhajiki`.
 
 ---
 
-[← Back to game list](../README.en.md#the-five-games)
+**Practice puzzles:** [Tsumebunshi puzzle book](../puzzles/tsumebunshi.md) (50 problems — element slot optimization)
+
+[← Back to game list](../README.en.md#the-seven-games)
