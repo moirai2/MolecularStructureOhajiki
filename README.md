@@ -10,7 +10,7 @@
 
 ## 基本情報
 
-- **プレイ人数:** 1〜6人（ゲームによって異なる。[モルオハ](docs/molohajiki.md)は2人専用、[モルサバ](docs/survival.md)は3〜4人推奨、[モルスゴ](docs/molsugo.md)は2〜6人）
+- **プレイ人数:** 1〜6人（ゲームによって異なる。[モルオハ](docs/molohajiki.md)は2人専用、[モルサバ](docs/survival.md)は3〜4人推奨、[モルスゴ](docs/molsugo.md)は3〜6人）
 - **対象年齢:** 10歳以上（[モルバツ](docs/tictacmol.md)・[モルサバ](docs/survival.md)など一部のゲームは6歳から遊べます。[モルパズ](docs/puzzle.md)は12歳以上推奨）
 - **プレイ時間:** 10〜60分（ゲームによって異なる）
 - **ジャンル:** デクステリティ × エンジンビルディング（手元のカードを育てて得点力を伸ばすゲームスタイル） × 理科を遊びながら学べる教育ゲーム
@@ -39,7 +39,7 @@
 | 3 | [MolPuzzle](docs/puzzle.md) | モルパズ | 1人 | 10〜20分 | ソロパズル |
 | 4 | [MolSolitaire](docs/solitaire.md) | モルソリ | 1人 | 15〜30分 | ソロ |
 | 5 | [MolUnion](docs/molunion.md) | モルユニ | 2〜5人（4人推奨） | 30〜45分 | 協力 |
-| 6 | [MolSugo](docs/molsugo.md) | モルスゴ | 2〜6人（4人推奨） | 30〜60分 | 双六＋デッキビルド |
+| 6 | [MolSugo](docs/molsugo.md) | モルスゴ | 3〜6人（4人推奨） | 30〜60分 | 双六＋デッキビルド |
 
 ---
 

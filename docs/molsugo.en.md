@@ -6,7 +6,7 @@
 
 A dexterity-free, track-based engine-building game. Players race around a circular loop of molecule cards, managing resources and buying cards to strengthen their collection. At the end, a **simultaneous reveal showdown** determines who wins each of the five element categories (Carbon · Hydrogen · Oxygen · Nitrogen · Other). **The player who wins the most categories wins.** fg pt (functional group points) meet or exceed 15 triggers the end of the game — they are not victory points.
 
-- **Players:** 2–6 (4 recommended)
+- **Players:** 3–6 (4 recommended)
 - **Time:** 30–60 min
 - **Age:** 10+
 

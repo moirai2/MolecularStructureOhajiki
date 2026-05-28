@@ -10,7 +10,7 @@ A board game that combines *ohajiki* — a traditional Japanese flicking game us
 
 ## At a glance
 
-- **Players:** 1–6 (depends on the game; [MolOha](docs/molohajiki.en.md) is 2-player only, [MolSaba](docs/survival.en.md) is best with 3–4, [MolSugo](docs/molsugo.md) is 2–6)
+- **Players:** 1–6 (depends on the game; [MolOha](docs/molohajiki.en.md) is 2-player only, [MolSaba](docs/survival.en.md) is best with 3–4, [MolSugo](docs/molsugo.md) is 3–6)
 - **Age:** 10+ ([TicTacMol](docs/tictacmol.en.md) and [MolSaba](docs/survival.en.md) can be played from age 6; [MolPuzzle](docs/puzzle.en.md) is recommended for age 12+)
 - **Play time:** 10–60 minutes (depends on the game)
 - **Genre:** Dexterity × Engine-building × Science-themed educational game
@@ -39,7 +39,7 @@ Seven different ways to play with the same set of components.
 | 3 | [MolPuzzle](docs/puzzle.en.md) | MolPazu | 1 | 10–20 min | Solo puzzle |
 | 4 | [MolSolitaire](docs/solitaire.en.md) | MolSori | 1 | 15–30 min | Solo |
 | 5 | [MolUnion](docs/molunion.en.md) | MolYuni | 2–5 (4 recommended) | 30–45 min | Co-op |
-| 6 | [MolSugo](docs/molsugo.en.md) | MolSugo | 2–6 (4 recommended) | 30–60 min | Track + deck-building |
+| 6 | [MolSugo](docs/molsugo.en.md) | MolSugo | 3–6 (4 recommended) | 30–60 min | Track + deck-building |
 
 ---
 

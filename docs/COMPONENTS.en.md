@@ -172,6 +172,25 @@ In **MolOhajiki (main game)**, exceeding a total of 10 fg pt triggers the end of
 | Player cards | 2 | 2 |
 | **Total** | **63** | **63** |
 
+### 5. Dice (MolSugo only)
+
+**Required only if you are playing MolSugo.** Not used in any other game.
+
+**① 5-color dice (resource counters) — one set per player**
+- Each player keeps 5 dice (black · white · red · blue · yellow = Carbon · Hydrogen · Oxygen · Nitrogen · Other)
+- The face value (1–6) tracks how many units of each element the player currently holds
+- **Quantity:** 5 per player (3–6 players: 15–30 dice total)
+- **Recommended:** Daiso "Color Dice" (110 yen)
+  - Product page: https://jp.daisonet.com/products/4968583474228
+
+**② White dice (movement) — 2 dice, shared by all players**
+- The active player rolls both and advances their piece by the total (2–12)
+- Keep them on a small tray or dish to avoid confusing them with the white (Hydrogen) resource dice
+
+> 💡 A Daiso "4-color dice set" plus a "white dice set" covers everything (use green as a substitute for black).
+
+---
+
 ## Nice-to-have items
 
 **Drawstring bag:**
