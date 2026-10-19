@@ -74,6 +74,8 @@
 
 **ゲームマーケット2026春に出展しました** → [出展レポートを読む](docs/gamemarket_2026spring_report.md)
 
+**ゲームマーケット2026秋にも出展しました（一般出展）** → [出展レポートを読む](docs/gamemarket_2026autumn_report.md)
+
 ---
 
 © 2026 Akira Hasegawa. All rights reserved.
